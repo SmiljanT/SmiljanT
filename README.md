@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SmiljanT
-- 👀 I’m interested in Fronted development.
+- 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning React JS
 .
 
