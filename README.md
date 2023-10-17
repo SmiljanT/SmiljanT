@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmiljanT
-- 👀 I’m interested in Frontend development.
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning PHP/Laravel
 .
 
 <!---
