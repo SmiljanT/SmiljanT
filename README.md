@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmiljanT
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python
+- 🌱
 .
 
 <!---
